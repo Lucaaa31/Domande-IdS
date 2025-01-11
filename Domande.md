@@ -152,3 +152,16 @@ a. un software deve soddisfare esclusivamente le specifiche funzionali attuali \
 b. un software deve soddisfare sia le specifiche funzionali attuali sia quelle prevedibili per il breve/medio termine \
 c. un software deve soddisfare le specifiche funzionali attuali ma essere predisposto per poter soddisfare, con bassi costi \
 di manutenzione, anche quelle prevedibili per il breve/medio termine 
+
+# 2024-01
+
+1. Il meccanismo di Start-Stop nelle automobili ha l’obiettivo di ridurre gli sprechi di carburante. Nel momento in cui il
+veicolo si ferma (per esempio a un semaforo), il motore viene automaticamente spento, per essere automaticamente
+riavviato quando il veicolo si rimette in movimento (quando lo Start-Stop si attiva, viene mostrata una spia sul cruscotto).
+Se la carica della batteria scende sotto una soglia di sicurezza, il meccanismo non viene attivato. Selezionare, tra i seguenti
+diagrammi degli stati, quelli corretti e compatibili con le specifiche (6/31 punti).
+
+![a](img/Lucio/2024-01/es1_a.png)
+![b](img/Lucio/2024-01/es1_b.png)
+![c](img/Lucio/2024-01/es1_c.png)
+![d](img/Lucio/2024-01/es1_d.png)
