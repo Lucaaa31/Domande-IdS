@@ -549,3 +549,104 @@ b
 c
 ![](img/Lucio/2024-11/d.png)
 d
+
+**1) Con riferimento al diagramma degli stati UML mostrato in figura, quali delle seguenti affermazioni sono vere? (3/31 punti)**
+
+![](img/Filippo/image.png)
+
+a. quando l’oggetto si trova nello stato R, può trovarsi indifferentemente negli stati S, X e W  
+
+b. quando l’oggetto entra nello stato R, entra negli stati T e V 
+
+c. quando accade l’evento c, l’oggetto entra nello stato W
+
+d. l’oggetto non può trovarsi contemporaneamente negli stati T e V
+
+e. l’oggetto non può trovarsi contemporaneamente negli stati T e X 
+
+f. l’oggetto non può raggiungere lo stato X se prima non è accaduto l’evento a
+
+a,b,e
+
+**2) Quali di questi diagrammi UML vengono normalmente utilizzati a supporto del collaudo del software, con particolare riferimento al “testing in the large”? (1/31 punti)**
+
+a. Sequenza
+
+b. Attività
+
+c. Classi
+
+d. Casi d'uso
+
+d
+
+**3) Un software viene sottoposto a refactoring per renderlo più manutenibile. Di che tipo di manutenzione si tratta? (1/31punti)**
+
+a. Correttiva
+
+b. Evolutiva
+
+c. Perfettiva
+
+d. Adattiva
+
+c
+
+**4) Quale di questi modelli di produzione del software è specificamente pensato per ridurre la durata del ciclo di sviluppo per software facilmente modularizzabili? (2/31 punti)**
+
+a. modello a cascata
+
+b. modello RAD 
+
+c. modello evolutivo a spirale
+
+d. model-driven development
+
+e. modello extreme programming
+
+b
+
+**5) Quali sono le principali caratteristiche del modello di produzione extreme programming? (2/31 punti)**
+
+a. incoraggia la progettazione di funzionalità aggiuntive
+
+b. in presenza di problemi di design, incoraggia il ricorso a spike solution
+
+c. è pensato per ridurre il rischio di progetto
+
+d. richiede comunicazione continua tra sviluppatori e utenti
+
+e. è iterativo e incrementale
+
+b,d,e
+
+**6) Un gruppo di tabelle viene acceduto da un’applicazione A ma è gestito da un’applicazione B. In quale modo può essere classificato nel metodo function points applicato ad A? (2/31 punti)**
+
+a. ILF (file interno logico)
+
+b. EIF (file esterno di interfaccia)
+
+c. EI (input esterno)
+
+d. EO (output esterno)
+
+e. EQ (query esterna)
+
+b
+
+**7) E’ dato il diagramma delle classi in figura, che rappresenta un portale per la gestione delle missioni effettuate dai volontari della vigilanza antincendio.**
+
+![](img/Filippo/image%20copy.png)
+
+Tra le seguenti, indicare le soluzioni di progetto delle associazioni ritenute corrette alla luce del seguente carico di
+lavoro:
+
+• visualizzare gli utenti che possiedono tutti i certificati richiesti da una certa missione (più volte al giorno);
+
+• visualizzare le missioni organizzate da un certo amministratore (una volta alla settimana);
+
+• visualizzare le ultime 3 missioni a cui un dato volontario ha partecipato (una volta al mese).
+
+![](img/Filippo/image%20copy%202.png)
+![](img/Filippo/image%20copy%203.png)
+![](img/Filippo/image%20copy%204.png)
