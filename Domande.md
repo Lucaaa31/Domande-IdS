@@ -550,6 +550,8 @@ c
 ![](img/Lucio/2024-11/d.png)
 d
 
+# 2023-09
+
 **1) Con riferimento al diagramma degli stati UML mostrato in figura, quali delle seguenti affermazioni sono vere? (3/31 punti)**
 
 ![](img/Filippo/image.png)
@@ -650,3 +652,300 @@ lavoro:
 ![](img/Filippo/image%20copy%202.png)
 ![](img/Filippo/image%20copy%203.png)
 ![](img/Filippo/image%20copy%204.png)
+
+# 2023-07
+
+**1) Quali delle seguenti affermazioni, riguardanti le funzioni di tipo dato e tipo transazione nel metodo Function Points,sono vere? (2/31 punti)**
+
+a. La logica di un processo EQ (External Inquiry) non contiene formule matematiche o calcoli e non crea dati derivati
+
+b. Il compito primario di un EIF (External Interface File) è di contenere dati referenziati da uno o più processi elementari dell’applicazione che si sta contando
+
+c. Il compito principale di un EO (External Output) è di modificare il comportamento del sistema
+
+d. Nessuna delle precedenti
+
+a,b
+
+**2) Quali di queste tecniche di verifica sono applicabili in un contesto black-box? (1/31 punti)**
+
+a. Code walk-through
+
+b. Testing in the small
+
+c. Code inspection
+
+d. Testing in the large
+
+e. nessuna delle precedenti
+
+d
+
+**3) Con riferimento alle azioni A, B e C nel frammento di diagramma di attività UML mostrato in figura, quali delle
+seguenti affermazioni sono vere? (3/31 punti)**
+
+![](img/Filippo/image%20copy%205.png)
+
+a. A non può iniziare se non è terminata B
+
+b. C non può iniziare se non è terminata A
+
+c. solo una tra B e C può avere luogo
+
+d. B e C possono avere luogo in contemporanea
+
+e. quando B termina, viene terminata anche C
+
+f. quando C termina, viene terminata anche B
+
+b,d,f
+
+**4) Quali delle seguenti classi dovrebbero essere presenti nel metamodello di un diagramma degli stati? (2/31 punti)**
+
+a. Messaggio
+
+b. Dipendenza
+
+c. Evento
+
+d. Azione
+
+e. Aggregazione
+
+f. Classe
+
+g. Flusso di oggetti
+
+h. Attività
+
+c,d,h
+
+**5) Dato il seguente frammento di pseudocodice, se ne calcoli la complessità ciclomatica: (3/31 punti)**
+```java
+begin
+read(N);
+read(x);
+for i:=1 to N do
+  read(V[i]);
+i:=1;
+K:=0;
+while (i<N) AND (K<100) do
+begin
+  if (x<>0)
+    V[i]:=(V[i]+V[i+1])/x;
+  K:=K+V[i];
+  i:=i+1;
+end
+end
+```
+**1) L'azienda Buon Ristoro gestisce distributori di articoli (snack e bevande) installati presso locali pubblici. Gli utenti possono acquistare articoli dai distributori pagando in contanti (i distributori erogano il resto, se necessario) oppure attraverso chiavette ricaricabili. Gli operatori della Buon Ristoro periodicamente visitano i distributori per svuotarli dei
+contanti accumulati e ricaricarli di articoli.**
+
+Selezionare, tra i seguenti diagrammi, quelli corretti e compatibili con le
+specifiche (6/31 punti).
+
+![](img/Filippo/image%20copy%206.png)
+![](img/Filippo/image%20copy%207.png)
+
+a
+
+# 2023-06
+
+**1) Quali dei seguenti requisiti incoraggiano l’adozione di una interfaccia code-based? (1/31 punti)**
+
+a. elevata mole di lavoro da svolgere
+
+b. apprendibilità
+
+c. riutilizzo della conoscenza pregressa
+
+d. soddisfazione dell’utente
+
+e. memorabilità
+
+a
+
+**2) Quale tra i seguenti meccanismi del paradigma a oggetti è alla base della progettazione di associazioni in UML?(1/31 punti)**
+
+a. delegazione
+
+b. ereditarietà
+
+c. polimorfismo
+
+d. incapsulamento
+
+a
+
+**3) Qual è la differenza tra errori bloccanti e non bloccanti rilevati durante il collaudo di un sistema software? (1/31 punti)**
+
+a. i primi pregiudicano lo svolgimento del collaudo, i secondi no
+
+b. i primi comportano l’arresto del software, i secondi no
+
+c. i primi sono relativi all’operatività, i secondi agli aspetti prestazionali
+
+d. non esiste questa differenziazione
+
+a
+
+**4) “Una coppia di sposi si reca presso il negozio e compila la lista di nozze insieme a una commessa”. Questa specifica è rilevante con riferimento a quali tipi di aspetti? (2/31 punti)**
+
+a. statici
+
+b. dinamici
+
+c. funzionali
+
+a,c
+
+**5) A quali tipi di elementi UML si applica la relazione di contenimento, rappresentata da un segno + circondato da un cerchio? (1/31 punti)**
+
+a. alle classi
+
+b. ai casi d’uso
+
+c. ai package
+
+d. agli stati
+
+e. ai componenti
+
+f. ai nodi
+
+c
+
+**6) Quali tra i seguenti diagrammi UML possono avere sia forma di descrittore sia forma di istanza? (2/31 punti)**
+
+a. deployment
+
+b. classi
+
+c. stati
+
+d. casi d’uso
+
+a,b
+
+**7) Quale tra le seguenti qualità è posseduta da un processo di produzione del software in grado di valutare
+correttamente e rispettare i tempi di consegna? (1/31 punti)**
+
+a. robustezza
+
+b. correttezza
+
+c. efficienza
+
+d. produttività
+
+e. tempestività
+
+e
+
+**8) Quali delle seguenti classi dovrebbero essere presenti nel metamodello di un diagramma delle classi? (2/31 punti)**
+
+a. Messaggio
+
+b. Dipendenza
+
+c. Evento
+
+d. Azione
+
+e. Aggregazione
+
+f. Classe
+
+g. Flusso di oggetti
+
+h. Associazione
+
+d,e,f,h
+
+**9) I dipendenti di un’azienda possono effettuare missioni (ossia trasferte fuori sede), previa autorizzazione del direttore e del titolare fondi. Una volta effettuata la missione, caricano i documenti di spesa e un operatore amministrativo provvede a liquidare il rimborso.**
+
+Selezionare, tra i seguenti diagrammi, quelli corretti e compatibili con le specifiche (6/31 punti).
+
+![](img/Filippo/image%20copy%208.png)
+![](img/Filippo/image%20copy%209.png)
+![](img/Filippo/image%20copy%2010.png)
+![](img/Filippo/image%20copy%2011.png)
+
+a (non sono d'accordo)
+
+# 2023-02
+
+**1) Cos’è uno stereotipo in UML? (1/31 punti)**
+
+a. una variazione di un elemento di modellazione esistente, con la stessa forma ma diverso scopo
+
+b. un simbolo grafico o testuale che permette di definire nuovi elementi di modellazione nel linguaggio
+
+c. una stringa tra parentesi angolari che si può applicare a dipendenza per specificarne il significato
+
+d. una icona che si può sostituire a una classe per specificarne il significato
+
+a (secondo me e secondo deepseek b)
+
+**2) E' dato il seguente frammento di pseudocodice:**
+```java
+begin
+read(A,B,C)
+ while (A>0) OR (B>0) then
+ begin
+  C := C/(A+B)
+  A--
+  B--
+ end
+end
+```
+Quali dei seguenti test soddisfano il criterio di copertura delle istruzioni (statement test)? (3/31 punti)
+a. {(A=2, B= –1, C=3)}
+b. {(A=2, B=1, C=0)}
+c. {(A= –2, B= –1, C=3)}
+d. {(A= –2, B=0, C=0)}
+3) Le special GUI sono pensate per situazioni in cui... (1/31 punti)
+a. ...l’utente deve effettuare un data-entry massivo
+b. ...l’utente può avere scarsa esperienza con l’utilizzo dei PC
+c. ...la soddisfazione dell’utente nell'uso dell’interfaccia è importante
+d. ...memorabilità e apprendibilità dell’interfaccia non sono importanti
+4) Quali tra i seguenti sono meccanismi di estendibilità in UML? (1/31 punti)
+a. specifiche
+b. viste
+c. profili
+d. diagrammi
+e. proprietà
+f. stereotipi
+5) Nell’ambito di Unified Process (UP), cosa si intende per transition? (1/31 punti)
+a. la fase in cui si definiscono gli obiettivi di progetto
+b. la fase in cui vengono definite le caratteristiche funzionali, strutturali e architetturali del software
+c. la fase in cui il software viene sviluppato e collaudato
+d. la fase in cui il software viene consegnato, installato e configurato
+6) E’ data una funzionalità che importa un flusso dati inviato periodicamente da un ente, lo elabora e salva i risultati in
+un file. In quale modo può essere classificata nel metodo function points? (2/31 punti)
+a. ILF (file interno logico)
+b. EIF (file esterno di interfaccia)
+c. EI (input esterno)
+d. EO (output esterno)
+e. EQ (query esterna)
+7) Quale delle seguenti qualità è posseduta da un software ottimizzato per limitare gli accessi alla memoria secondaria?
+(1/31 punti)
+a. robustezza
+b. correttezza
+c. efficienza
+d. riusabilità
+e. facilità d’uso
+f. produttività
+g. tempestività
+8) In che modo si modella il legame tra un componente e il manufatto che lo implementa in un diagramma di
+deployment UML?
+a. dipendenza
+b. associazione
+c. realizzazione
+d. raffinamento
+e. aggregazione
+f. specializzazione
+9) In un sito di commercio elettronico, l’utente sceglie prodotti e può aggiungerli al carrello. Al momento del check-out,
+il sistema calcola le spese di spedizione e mostra all’utente l’importo totale. L’utente può pagare con carta di credito o
+PayPal. Viene poi inviata all’utente una email riassuntiva dell’acquisto. Al momento della spedizione, viene inviata
+un’ulteriore email. Selezionare, tra i seguenti diagrammi, quelli che modellano correttamente le specifiche (6/31 punti).
