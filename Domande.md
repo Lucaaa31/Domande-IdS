@@ -948,57 +948,57 @@ f. specializzazione
 
 # 2023-01
 
-**1) Un progetto software viene valutato 800 FP (function point), di cui 50 legati al recupero dei dati gestititi dal precedente software. Negli anni successivi alla messa in esercizio vengono effettuati due interventi di manutenzione evolutiva: il primo sostituisce una funzionalità da 100 FP con una da 120 FP; il secondo sostituisce una funzionalità da 50 FP con una da 100 FP. Calcolare i FP con riferimento ai seguenti tipi di conteggio: (3/31 punti)**
-per il software prima dei due interventi di manutenzione evolutiva 750
-per il software dopo i due interventi di manutenzione evolutiva 820
-per il progetto di manutenzione evolutiva 370
+**1) Un progetto software viene valutato 800 FP (function point), di cui 50 legati al recupero dei dati gestititi dal precedente software. Negli anni successivi alla messa in esercizio vengono effettuati due interventi di manutenzione evolutiva: il primo sostituisce una funzionalità da 100 FP con una da 120 FP; il secondo sostituisce una funzionalità da 50 FP con una da 100 FP. Calcolare i FP con riferimento ai seguenti tipi di conteggio: (3/31 punti)** \
+per il software prima dei due interventi di manutenzione evolutiva  \
+per il software dopo i due interventi di manutenzione evolutiva  \
+per il progetto di manutenzione evolutiva  \
 
-**2) Cosa si intende per verificabilità di un software? (1/31 punti)**
-a. la facilità con la quale si possono valutare le altre qualità del software stesso
-b. l'assenza di bug
-c. la facilità con la quale è possibile capire lo stato di avanzamento del processo di produzione
-d. il fatto che la correttezza del software sia facilmente verificabile tramite tecniche di testing e di analisi
+**2) Cosa si intende per verificabilità di un software? (1/31 punti)** \
+a. la facilità con la quale si possono valutare le altre qualità del software stesso \
+b. l'assenza di bug \
+c. la facilità con la quale è possibile capire lo stato di avanzamento del processo di produzione \
+d. il fatto che la correttezza del software sia facilmente verificabile tramite tecniche di testing e di analisi 
 
-**3) Un software viene modificato per aggiungere una funzionalità di esportazione dati prevista nel capitolato di gara ma assente nella prima release del software. Di che tipo di manutenzione si tratta? (1/31 punti)**
-a. Correttiva
-b. Evolutiva
-c. Perfettiva
-d. Adattiva
+**3) Un software viene modificato per aggiungere una funzionalità di esportazione dati prevista nel capitolato di gara ma assente nella prima release del software. Di che tipo di manutenzione si tratta? (1/31 punti)** \
+a. Correttiva \
+b. Evolutiva \
+c. Perfettiva \
+d. Adattiva 
 
-**4) Cosa si intende per “messa in produzione” del software? (1/31 punti)**
-a. il momento in cui inizia la fase di analisi dei requisiti
-b. il momento in cui inizia la fase di esercizio del software
-c. il momento in cui inizia la fase di implementazione
-d. il momento in cui inizia la fase di diagnosi e manutenzione
-e. il momento in cui inizia la fase di progettazione del software
-f. il momento in cui inizia la fase di collaudo
+**4) Cosa si intende per “messa in produzione” del software? (1/31 punti)**\
+a. il momento in cui inizia la fase di analisi dei requisiti \
+b. il momento in cui inizia la fase di esercizio del software \
+c. il momento in cui inizia la fase di implementazione \
+d. il momento in cui inizia la fase di diagnosi e manutenzione \
+e. il momento in cui inizia la fase di progettazione del software \
+f. il momento in cui inizia la fase di collaudo \
 g. il momento in cui il software viene installato
 
-**5) Il modello RAD di produzione del software… (2/31 punti)**
-a. è incrementale
-b. mira a ridurre il tempo complessivo di sviluppo
-c. si basa sull’uso di componenti
-d. richiede che ciascuna funzionalità principale sia realizzabile in meno di due settimane
-e. è pensato per situazioni in cui è cruciale ottimizzare le interfacce tra componenti per ottenere alte prestazioni
-f. crea modelli formali del software che vengono poi fatti evolvere durante lo sviluppo
+**5) Il modello RAD di produzione del software… (2/31 punti)** \
+a. è incrementale \
+b. mira a ridurre il tempo complessivo di sviluppo \
+c. si basa sull’uso di componenti \
+d. richiede che ciascuna funzionalità principale sia realizzabile in meno di due settimane \
+e. è pensato per situazioni in cui è cruciale ottimizzare le interfacce tra componenti per ottenere alte prestazioni \
+f. crea modelli formali del software che vengono poi fatti evolvere durante lo sviluppo \
 g. scoraggia la documentazione formale del software
 
-**6) Quali delle seguenti classi dovrebbero essere presenti nel metamodello di un diagramma di attività? (2/31 punti)**
-a. Messaggio
-b. Dipendenza
-c. Corsia
-d. Azione
-e. Evento
-f. Decisione
-g. Flusso di oggetti
-h. Linea di vita
+**6) Quali delle seguenti classi dovrebbero essere presenti nel metamodello di un diagramma di attività? (2/31 punti)** \
+a. Messaggio \
+b. Dipendenza \
+c. Corsia \
+d. Azione \
+e. Evento \
+f. Decisione \
+g. Flusso di oggetti \
+h. Linea di vita \
 
-**7) In quali situazioni è particolarmente importante, tra i fattori di usabilità di un'interfaccia, la memorabilità? (1/31 punti)**
-a. quando il software è di utilizzo secondario
-b. quando il turn-over degli utenti è elevato
-c. quando è richiesta elevata flessibilità nell’interazione con l’utente
-d. quando gli utenti usano il software saltuariamente
-e. quando i risultati del software sono immediatamente visibili ai clienti esterni
+**7) In quali situazioni è particolarmente importante, tra i fattori di usabilità di un'interfaccia, la memorabilità? (1/31 punti)** \
+a. quando il software è di utilizzo secondario \
+b. quando il turn-over degli utenti è elevato \
+c. quando è richiesta elevata flessibilità nell’interazione con l’utente \
+d. quando gli utenti usano il software saltuariamente \
+e. quando i risultati del software sono immediatamente visibili ai clienti esterni \
 
 **8) Una striscia LED per l’illuminazione di interni, dotata di un pulsante e di un sensore di prossimità, funziona in tre modalità: “spenta”, “accesa” e “vicinanza”. In modalità vicinanza, si accende automaticamente quando il sensore rileva movimento entro il raggio di 2 metri per poi spegnersi dopo 15 secondi. Il passaggio da una modalità all’altra avviene ciclicamente a ogni pressione del pulsante; l’entrata in modalità “vicinanza” è evidenziata con due flash, lo spegnimento con un flash. Selezionare, tra i diagrammi degli stati seguenti, quelli che correttamente modellano le specifiche (6/31punti).**
 
